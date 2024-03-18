@@ -1,0 +1,31 @@
+.FriendListContainer {
+    border: 2px solid black;
+    border-radius: 8px;
+    width: calc((670px - 48px)/5);
+    padding: 16px 0;
+
+}
+
+.FriendListImg {
+    margin: 0 auto;
+    margin-bottom: 8px;
+}
+
+.FriendListName {
+    font-size: 32px;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+
+.FriendListOnline {
+    font-size: 28px;
+    font-weight: 400;
+}
+
+.onLine {
+    color: green;
+}
+
+.offLine {
+    color: red;
+}
